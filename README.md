@@ -2,11 +2,11 @@ This is a kit for quickly create a [Next.js](https://nextjs.org/) app with [Tail
 
 ## Getting Started
 
-You can clone this starting kit by running* 
+You can clone this starting kit by running 
 ```bash
 git clone https://github.com/Antoine-Bollinger/kit_nextjs_tailwindcc .
 ```
-directly in the folder of your great project.
+directly in the folder of your great project (note the **dot** at the end of the command, this allows you to clone directly into the folder without creating a subfolder named after the repo).
 
 Then run :
 ```bash
@@ -22,7 +22,6 @@ yarn dev
 ```
 will run the development server.
 
-* Note the dot at the end of the command, this allows you to clone directly into the folder without creating a subfolder named after the repo.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
